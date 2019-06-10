@@ -1,0 +1,2 @@
+indent 20
+length 80
